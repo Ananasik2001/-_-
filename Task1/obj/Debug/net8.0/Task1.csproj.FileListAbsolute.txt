@@ -1,0 +1,14 @@
+C:\Users\пользователь\Desktop\Lesson_Функции\Funkcions\Task1\bin\Debug\net8.0\Task1.exe
+C:\Users\пользователь\Desktop\Lesson_Функции\Funkcions\Task1\bin\Debug\net8.0\Task1.deps.json
+C:\Users\пользователь\Desktop\Lesson_Функции\Funkcions\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+C:\Users\пользователь\Desktop\Lesson_Функции\Funkcions\Task1\bin\Debug\net8.0\Task1.dll
+C:\Users\пользователь\Desktop\Lesson_Функции\Funkcions\Task1\bin\Debug\net8.0\Task1.pdb
+C:\Users\пользователь\Desktop\Lesson_Функции\Funkcions\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\Lesson_Функции\Funkcions\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\Lesson_Функции\Funkcions\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\Lesson_Функции\Funkcions\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\Lesson_Функции\Funkcions\Task1\obj\Debug\net8.0\Task1.dll
+C:\Users\пользователь\Desktop\Lesson_Функции\Funkcions\Task1\obj\Debug\net8.0\refint\Task1.dll
+C:\Users\пользователь\Desktop\Lesson_Функции\Funkcions\Task1\obj\Debug\net8.0\Task1.pdb
+C:\Users\пользователь\Desktop\Lesson_Функции\Funkcions\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\Lesson_Функции\Funkcions\Task1\obj\Debug\net8.0\ref\Task1.dll
